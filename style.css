@@ -1,0 +1,75 @@
+
+html{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+body{
+    box-sizing: border-box;
+    background-image: url(https://appconversion.com/wp-content/uploads/2020/07/app-conversion-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-y: hidden;
+}
+
+#title{
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFD700;
+    font-weight: bold;
+}
+
+#sub-txt{
+    padding-top: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFD700;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.dd{
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+
+#first,#second{
+    margin: 8px;
+    width: 50%;
+    
+
+}
+
+#btn{
+    margin-top: 5px;
+    color: #FFD700;
+    color: white;
+}
+
+#txt2{
+    color: #FFD700;
+}
+
+.select{
+    padding: 8px;
+    font-size: 18px;
+
+}
+
+#weightP1,#weightP2{
+    color: #FFD700;
+    display: flex;
+    align-content: center;
+    align-self: center;
+    text-transform: uppercase;
+}
+
+#dropdownMenuButton1{
+    background-color: #FFD700;;
+}
